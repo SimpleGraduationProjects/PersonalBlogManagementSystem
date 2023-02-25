@@ -25,7 +25,7 @@
 >
 > http://localhost:8080/admin/logout
 >
-> admin 123456
+> admin admin
 >
 
 
