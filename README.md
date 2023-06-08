@@ -19,7 +19,7 @@
 >
 > 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
 >
-> 用户页面：http://localhost:8080/shop/login
+> 用户页面：http://localhost:8080/
 >
 > 管理员登录地址：http://localhost:8080/admin/logout
 >
